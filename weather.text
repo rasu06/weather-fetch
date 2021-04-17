@@ -1,0 +1,13 @@
+Navigator=>The Navigator interface represents the state and the identity of the user agent. 
+Navigator.geolocation=> this returns Geolocation object, when user allows device location access.
+
+
+This project is going to teach you how to build a weather application with Vanilla JS, HTML, and CSS. 
+The instructor uses the weatherbit API for fetching weather information, which is a great opportunity for you to learn how to interact with APIs,
+ another great thing you can do with javascript.
+
+Rating
+
+This might be a good fit for your portfolio. If you already did project 1., you already know the instructor, and 
+I can tell you he delivers high quality again.
+ It seems like he really knows how to teach in an understandable and entertaining way.

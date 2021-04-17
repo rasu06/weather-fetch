@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items: center;
+    background:linear-gradient(#1b8cb5,#073378);
+    font-family:'Roboto';
+    font-weight:400;
+    color:aliceblue;
+}
+.temp,
+.temp1{
+   height:20vh;
+   width:50%;
+   display:flex;
+   justify-content:space-between;
+   marign
+}
+.temp1{
+    display:flex;
+    flex-direction:column;
+    
+    align-items:center;
+}
+.value{
+    display:flex;
+    align-items:center;
+    cursor:pointer;
+} 
+.temp1-value{
+    padding:0;
+    margin-right:10px;
+    margin-bottom: 0;
+    font-size: 50px;
+}
+.tempspan{
+   display:flex;
+   align-items:center;
+   font-size: 30px;
+}
+.temp-comment{
+    display:flex;
+    text-align:center;
+}
+.icon{
+    height:100px;
+    width:100px;
+}
+.location{
+    margin:0;
+}
